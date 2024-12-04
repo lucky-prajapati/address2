@@ -1,0 +1,15 @@
+{
+    "name": "lucky/address2",
+    "autoload": {
+        "psr-4": {
+            "Lucky\\Address2\\": "src/app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh kumar",
+            "email": "lucky1999mfp@gmail.com"
+        }
+    ],
+    "require": {}
+}
