@@ -35,5 +35,13 @@
             "@build",
             "@php vendor/bin/testbench serve --ansi"
         ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lucky\\Address2\\Providers\\Address2Provider"
+            ]
+        }
     }
+
 }
